@@ -4,9 +4,6 @@ A machine learning project that predicts whether an airline passenger is **satis
 **neutral/dissatisfied** based on demographic data, travel profile, in-flight service ratings,
 and delay information.
 
-> Project 17 — Data Analysis with Python
-> National Economics University, Hanoi — Faculty of Data Science and Artificial Intelligence
-
 ## Overview
 
 The commercial airline industry is highly competitive, and customer satisfaction directly drives
